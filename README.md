@@ -39,6 +39,23 @@ All features are numeric, clean, and ready for modeling.
 
 ---
 
+## 📊 Visuals
+
+### Boxplot (Age)
+![Boxplot Age & Fare Before](images/Boxplot_of_Age_and_Fare_Before.png)
+![Boxplot Age & Fare After](images/Boxplot_of_Age_and_Fare_After.png)
+
+### Correlation Heatmap
+![Heatmap](images/Correlation Heatmapp.png)
+
+### Survival by Class
+![Survival by Class](images/Survival by class chart.png)
+
+### Final Cleaned Dataset
+![Dataset Preview](images/final_dataset_preview.png)
+
+---
+
 ## ✨ Going the Extra Mile
 Even though real-world projects may use only 1–2 plots for outliers, I chose to add a few more visualizations to:
 - Apply what I learned in my MSc in AI/ML
