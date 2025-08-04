@@ -46,10 +46,10 @@ All features are numeric, clean, and ready for modeling.
 ![Boxplot Age & Fare After](images/Boxplot_of_Age_and_Fare_After.png)
 
 ### Correlation Heatmap
-![Heatmap](images/Correlation Heatmapp.png)
+![Heatmap](images/correlation_heatmap.png)
 
 ### Survival by Class
-![Survival by Class](images/Survival by class chart.png)
+![Survival by Class](images/survival_by_class_chart.png)
 
 ### Final Cleaned Dataset
 ![Dataset Preview](images/final_dataset_preview.png)
